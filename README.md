@@ -1,7 +1,7 @@
 ###  Olá, mundo! 😎 Eu sou o Jeferson Siqueira!🤝
 
-- 🔭 Hoje: Sou Dev Jr na Stefanini
-- 📚 Estudando: HTML5, CSS3, JAVA, REST, SPRING e JS.
+- 🔭 Hoje: Sou Desenvolvedor Jr/Pl
+- 📚 Estudando: JAVA, REST, SPRING, DOCKER, CI/CD, JEKINS...
 - 📫 Contato: jeferson0306@gmail.com
 - 🎵 Music: Hip-Hop 🎧
 

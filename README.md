@@ -1,6 +1,6 @@
 ###  Olá, mundo! 😎 Eu sou o Jeferson Siqueira!🤝
 
-- 🔭 Hoje: Sou Desenvolvedor Jr/Pl
+- 🔭 Hoje: Desenvolvedor Pleno
 - 📚 Estudando: JAVA, REST, SPRING, DOCKER, CI/CD, JEKINS...
 - 📫 Contato: jeferson0306@gmail.com
 - 🎵 Music: Hip-Hop 🎧

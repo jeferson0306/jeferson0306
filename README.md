@@ -1,4 +1,4 @@
-###  Olá, mundo! 😎 Eu sou o Jeferson Siqueira!🤝
+###  Hello, world! 😎 I'm Jeferson Siqueira!🤝
 
 - 🔭 I am a Backend Software Engineer with nearly 4 years of experience, specializing in Java and working across various technologies such as Node.js, Python, Go, React, and Angular. Throughout my career, I have contributed to high-impact projects in the financial, e-commerce, and CRM sectors, including processing large-scale financial investment files for American companies and acting as middleware between VTEX and Salesforce. I’m driven by a passion for problem-solving, always researching to find more efficient solutions.
 - 📫 Contact: jeferson0306@gmail.com

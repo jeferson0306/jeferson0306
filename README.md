@@ -1,44 +1,92 @@
-###  Hello, world! 😎 I'm Jeferson Siqueira!🤝
+# Hey, I'm Jeferson Siqueira 👋
 
-- 🔭 I am a Backend Software Engineer with nearly 4 years of experience, specializing in Java and working across various technologies such as Node.js, Python, Go, React, and Angular. Throughout my career, I have contributed to high-impact projects in the financial, e-commerce, and CRM sectors, including processing large-scale financial investment files for American companies and acting as middleware between VTEX and Salesforce.
+**Senior Fullstack Engineer** at **BMW Group** (via Aubay) | Building scalable systems & AI-powered tools
 
-Technologies:
-- Java (6, 7, 8, 11, 17, 21)
-- Spring Framework: Spring Boot, Spring Batch
-- DevOps: Docker, Kubernetes, K3D, Work Node, Golden Images, DockerHub, Daemon
-- Cloud Platforms: AWS (S3, SQS, SNS, EventBridge, IAM, Lambda), Kafka
-- CI/CD: Jenkins, GitLab, AWS CodePipeline, Azure Pipelines, GitHub Actions
-- Frontend: React, Angular, JSP
-- Databases: Oracle, Teradata, MongoDB, Redis, SQL Server, R2DBC, Postgres, DynamoDB, MySQL, Athena
-- Observability: ElasticSearch, Kibana, Dynatrace, CloudWatch
-- Git: Azure Repository, AWS CodeCommit, GitLab, GitHub
-- Other tools: MuleSoft, Salesforce (Marketing Cloud), Marketdata, CSU Digital
-- Other technologies: NodeJs, Python, GoLang, React, Angular
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developerjefersonsiqueira/)
+[![npm](https://img.shields.io/badge/npm-jay--crew-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/jay-crew)
+[![GitHub](https://img.shields.io/badge/GitHub-jeferson0306-181717?style=flat&logo=github&logoColor=white)](https://github.com/jeferson0306)
 
-I thrive in environments that encourage continuous learning and collaboration. I’m driven by a passion for problem-solving, always researching to find more efficient solutions. My background in delivering technical courses has strengthened my communication skills, which I apply daily to foster effective teamwork. I am adaptable, proactive, and always seeking new ways to improve processes and systems.
+---
 
-- 📫 Contact: jeferson0306@gmail.com
+## 🚀 What I Do
 
-<div>
-  <a href="https://github.com/jeferson0306">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeferson0306&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson0306&layout=compact&langs_count=7&theme=merko"/>
+5+ years building **high-performance backend systems** for finance, automotive, and e-commerce.
+
+Currently focused on **cloud-native architectures** and **AI integration** — because the future of software is intelligent systems.
+
+---
+
+## 📦 Featured Project
+
+### [jay-crew](https://www.npmjs.com/package/jay-crew) — Multi-Agent AI Team
+
+A CLI tool that scans any codebase and generates AI-ready context for Claude, ChatGPT, or any LLM.
+
+bash
+npx jay-crew -p ~/your-project "Full technical analysis"
+
+
+✨ **200+ technologies detected** · **Zero API keys** · **Works with any AI**
+
+[![npm version](https://img.shields.io/npm/v/jay-crew?color=CB3837&label=npm)](https://www.npmjs.com/package/jay-crew)
+[![GitHub stars](https://img.shields.io/github/stars/jeferson0306/jay-crew?style=social)](https://github.com/jeferson0306/jay-crew)
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+Java · Kotlin · Go · Python · Node.js
+Spring Boot · Quarkus · Express.js
+
+**Cloud & DevOps**
+
+AWS · Docker · Kubernetes · Terraform
+Jenkins · GitHub Actions · GitLab CI
+
+**Data**
+
+PostgreSQL · Oracle · MongoDB · Redis
+Kafka · SQS · EventBridge
+
+**AI & LLMs**
+
+AI Agents · RAG · MCP Protocol · Prompt Engineering
+LangChain · OpenAI SDK
+
+---
+
+## 📚 Currently Learning
+
+🎓 **MBA in Software Engineering with AI** — Full Cycle (2026~2027)
+
+Focused on: AI-driven development, agent orchestration, and next-gen software architecture.
+
+---
+
+## 💼 Experience Highlights
+
+| Company | Role | Impact |
+|---------|------|--------|
+| **BMW Group** (Aubay) | Senior Fullstack Engineer | Cloud-native services on AWS |
+| **Banco do Brasil** | Senior Software Engineer | U.S. financial integrations (Pershing, NICE Actimize) |
+| **Sicredi** | Software Engineer | -33% incident resolution time |
+| **Stefanini** | Software Engineer | 99.3% vulnerability reduction across 84 repos |
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/developerjefersonsiqueira/)
+- 📧 jeferson0306@gmail.com
+- 🇵🇹 Portugal: +351 961 796 687
+- 🇧🇷 Brazil: +55 61 99194 6758
+
+---
+
+<div align="center">
+  
+*"The future belongs to those who adapt."*
+
 </div>
-  
- </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jeferson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeferson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jeferson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jeferson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jeferson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
-  
-  <div> 
-    <a href="https://www.linkedin.com/in/developerjefersonsiqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.instagram.com/jeferson0306/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:jeferson0306@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-  </div> 
